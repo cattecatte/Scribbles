@@ -1,3 +1,8 @@
 # hello-world
 
-Still learning the ropes! Feel free to say hi.
+Learning the ropes!
+
+HMTL
+CSS
+Javascript
+node.js
