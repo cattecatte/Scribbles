@@ -1,6 +1,5 @@
-# hello-world
+# Notes
 
-Learning the ropes!
 
 HMTL
 CSS
