@@ -22,7 +22,7 @@ php/ MySQL
 
 ## SSH & basic command line
 
-**CSS Precompliers
+## CSS Precompliers
 Sass
 less
 
