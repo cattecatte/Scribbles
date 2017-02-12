@@ -1,31 +1,39 @@
 # Notes
 
-**programs
+## programs
 
 atom
 dreamweaver
 photoshop
 illustrator
 
-**core skills
+## core skills
 
 HMTL
 CSS
 Javascript
 
 
-**server side/database
+## server side/database
 
 node.js/ Mongodb
 php/ MySQL
 
 
-**SSH & basic command line
+## SSH & basic command line
 
 **CSS Precompliers
 Sass
 less
 
-**APIS/REST Services
+## APIS/REST Services
 
-**HTTPS/SSL
+## HTTPS/SSL
+
+## JS frameworks
+React
+Angular
+
+## PHP frameworks
+codeigniter
+laravel
